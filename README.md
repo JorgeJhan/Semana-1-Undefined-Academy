@@ -15,6 +15,13 @@ A continuación, se presentan los 5 comandos escritos en una tabla mediante Mark
 |rm     |eliminar           |
 |mv     |Mover/renombrar    |
 
+### Comandos alias
+Los siguientes 2 Comandos alias me parecieron muy útiles
+|Comando|Descripcion|
+|-------|------------|
+|alias: cls 'Clear'|Limpiar la terminal|
+|alias: la 'ls -A'|Mostrar archivos y directorios ocultos|
+
 # Contacto 
 Si tienes alguna pregunta o comentario sobre este proyecto, puedes contactarme 📩 
 
